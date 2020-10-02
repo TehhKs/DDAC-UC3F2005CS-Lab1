@@ -4,6 +4,6 @@
   </head>
   
   <body>
-    <p styles="color:red">Hello World!</p>
+    <p style="color:red">Hello World!</p>
   </body>
 </html>
